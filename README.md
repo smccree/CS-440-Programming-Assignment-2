@@ -56,12 +56,150 @@ To classify our dynamic gesture--an open-handed wave--we modified the myMotionEn
 
 Using a mix of circularity computation, motion energy reading, template images skin color detection, among other techniques listed above, we were able to classify these gestures with moderate success.
 
-![Screenshot](my_hand.png)
+![Screenshot](my_hand.png) This is the proper formatting of how to add screenshots. Temporary.
+
+# Experiments
+
+We performed six initial tests to classify a static fist gesture using the circularity method outlined under "Attempt 2" above. For each experiment, we attempted to keep ourselves and other background items out of view so as not to skew our results or create erroneous classifications. We evaluated the results of our experiments by examining their overall accuracy--i.e., the number of correct classifications versus incorrect ones. We repeated the same testing process for static open-hand and dynamic wave. We also tested to make sure that the program will not classify a close-fisted wave as an open-handed wave. 
+
+# Results
+
+Task 1: Testing Recognition of a Closed Fist
+
+Template Image:
+
+Trial                                Source Image                                   Result Image
+
+Trial 1                              ![Screenshot](tbd.png)                         ![Screenshot](tbd.png)
+
+Trial 2                              ![Screenshot](tbd.png)                         ![Screenshot](tbd.png)        
+
+Trial 3                              ![Screenshot](tbd.png)                         ![Screenshot](tbd.png)
+
+Trial 4                              ![Screenshot](tbd.png)                         ![Screenshot](tbd.png)
+
+Trial 5                              ![Screenshot](tbd.png)                         ![Screenshot](tbd.png)
+
+Trial 6                              ![Screenshot](tbd.png)                         ![Screenshot](tbd.png)
 
 
+Confusion Matrix:
+make a confusion matrix and put it here
 
 
+Task 2: Testing Recognition of an Open Hand
 
+Trial                                Source Image                                   Result Image
+
+Trial 1                              ![Screenshot](tbd.png)                         ![Screenshot](tbd.png)
+
+Trial 2                              ![Screenshot](tbd.png)                         ![Screenshot](tbd.png)        
+
+Trial 3                              ![Screenshot](tbd.png)                         ![Screenshot](tbd.png)
+
+Trial 4                              ![Screenshot](tbd.png)                         ![Screenshot](tbd.png)
+
+Trial 5                              ![Screenshot](tbd.png)                         ![Screenshot](tbd.png)
+
+Trial 6                              ![Screenshot](tbd.png)                         ![Screenshot](tbd.png)
+
+
+Confusion Matrix:
+Make a confusion matrix and put it here
+
+Task 3: Testing Recognition of an Open-Handed Wave
+
+Trial                                Source Image                                   Result Image
+
+Trial 1                              ![Screenshot](tbd.png)                         ![Screenshot](tbd.png)
+
+Trial 2                              ![Screenshot](tbd.png)                         ![Screenshot](tbd.png)        
+
+Trial 3                              ![Screenshot](tbd.png)                         ![Screenshot](tbd.png)
+
+Trial 4                              ![Screenshot](tbd.png)                         ![Screenshot](tbd.png)
+
+Trial 5                              ![Screenshot](tbd.png)                         ![Screenshot](tbd.png)
+
+Trial 6                              ![Screenshot](tbd.png)                         ![Screenshot](tbd.png)
+
+
+Confusion Matrix:
+make a confusion matrix and put it here
+
+
+# Bonus: Template Matching Method Results
+
+Because we initially tried to use template matching to classify hand gestures, I have included screenshots of the results from this
+method. The only problem we had with using template matching is we were unable to figure out how to get the system to recognize when
+the template we were searching for was not in the frame. Our modified version of the code available from OpenCV's tutorial on the subject simply found the 'best possible match' to the template we were searching for. However, it was still semi-accurate in our tests.
+
+Task 1: Testing Recognition of a Closed Fist
+
+Trial                                Source Image                                   Result Image
+
+Trial 1                              ![Screenshot](tbd.png)                         ![Screenshot](tbd.png)
+
+Trial 2                              ![Screenshot](tbd.png)                         ![Screenshot](tbd.png)        
+
+Trial 3                              ![Screenshot](tbd.png)                         ![Screenshot](tbd.png)
+
+Trial 4                              ![Screenshot](tbd.png)                         ![Screenshot](tbd.png)
+
+Trial 5                              ![Screenshot](tbd.png)                         ![Screenshot](tbd.png)
+
+Trial 6                              ![Screenshot](tbd.png)                         ![Screenshot](tbd.png)
+
+
+Confusion Matrix:
+make a confusion matrix and put it here
+
+Task 2: Testing Recognition of an Open Hand
+
+Trial                                Source Image                                   Result Image
+
+Trial 1                              ![Screenshot](tbd.png)                         ![Screenshot](tbd.png)
+
+Trial 2                              ![Screenshot](tbd.png)                         ![Screenshot](tbd.png)        
+
+Trial 3                              ![Screenshot](tbd.png)                         ![Screenshot](tbd.png)
+
+Trial 4                              ![Screenshot](tbd.png)                         ![Screenshot](tbd.png)
+
+Trial 5                              ![Screenshot](tbd.png)                         ![Screenshot](tbd.png)
+
+Trial 6                              ![Screenshot](tbd.png)                         ![Screenshot](tbd.png)
+
+
+Confusion Matrix:
+make a confusion matrix and put it here
+
+Task 3: Testing Recognition of an Open-Handed Wave
+
+Trial                                Source Image                                   Result Image
+
+Trial 1                              ![Screenshot](tbd.png)                         ![Screenshot](tbd.png)
+
+Trial 2                              ![Screenshot](tbd.png)                         ![Screenshot](tbd.png)        
+
+Trial 3                              ![Screenshot](tbd.png)                         ![Screenshot](tbd.png)
+
+Trial 4                              ![Screenshot](tbd.png)                         ![Screenshot](tbd.png)
+
+Trial 5                              ![Screenshot](tbd.png)                         ![Screenshot](tbd.png)
+
+Trial 6                              ![Screenshot](tbd.png)                         ![Screenshot](tbd.png)
+
+
+Confusion Matrix:
+make a confusion matrix and put it here
+
+
+# Discussion
+
+# Conclusions
+
+# Credits and Bibliography
 
 
 
