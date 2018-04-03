@@ -56,7 +56,7 @@ To classify our dynamic gesture--an open-handed wave--we modified the myMotionEn
 
 Using a mix of circularity computation, motion energy reading, template images skin color detection, among other techniques listed above, we were able to classify these gestures with moderate success.
 
-
+![Screenshot](my_hand.png)
 
 
 
