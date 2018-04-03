@@ -8,15 +8,15 @@ Date: 2 April 2018
 # Problem Definition
 For this assignment, we were asked to create a program that uses a variety of computer vision techniques (using C++ and opencv)
 to recognize hand gestures. The techniques we could have chosen to implement were:
-(1) Background differencing
-(2) Frame-to-Frame differencing
-(3) Template Matching
-(4) Motion Energy Templates
-(5) Skin-color detection
-(6) Horizontal and Vertical Projection
-(7) Size, Position, Orientation of "blobs"
-(8) Circularity of "blobs"
-(9) Tracking the position and orientation of moving objects
+(1.) Background differencing
+(2.) Frame-to-Frame differencing
+(3.) Template Matching
+(4.) Motion Energy Templates
+(5.) Skin-color detection
+(6.) Horizontal and Vertical Projection
+(7.) Size, Position, Orientation of "blobs"
+(8.) Circularity of "blobs"
+(9.) Tracking the position and orientation of moving objects
 
 Using any combination of this techniques, we would be able to recognize 2 hand gestures: an open hand and a closed fist,
 as well as an open-handed wave. From the start, we anticipated difficulties with differentiating background noise and similarly
