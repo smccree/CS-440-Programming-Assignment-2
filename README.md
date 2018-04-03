@@ -6,6 +6,9 @@ Teammate: Yuxuan (Lorraine) Ji
 
 Date: 2 April 2018
 
+Note: I had trouble getting screenshots to show up in this report. All screenshots referenced are available in the screenshots folder.
+Github repository link: https://github.com/smccree/CS-440-Programming-Assignment-2/edit/master/README.md
+
 # Problem Definition
 For this assignment, we were asked to create a program that uses a variety of computer vision techniques (using C++ and opencv)
 to recognize hand gestures. The techniques we could have chosen to implement were:
