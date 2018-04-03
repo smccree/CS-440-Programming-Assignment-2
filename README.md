@@ -62,6 +62,8 @@ Using a mix of circularity computation, motion energy reading, template images s
 
 We performed six initial tests to classify a static fist gesture using the circularity method outlined under "Attempt 2" above. For each experiment, we attempted to keep ourselves and other background items out of view so as not to skew our results or create erroneous classifications. We evaluated the results of our experiments by examining their overall accuracy--i.e., the number of correct classifications versus incorrect ones. We repeated the same testing process for static open-hand and dynamic wave. We also tested to make sure that the program will not classify a close-fisted wave as an open-handed wave. 
 
+After our initial tests, we performed 20 rapid-fire tests for both fist and open hand recognition. For waving, we performed 24 additional rapid-fire tests. We did this to ensure a more a better data sample for our confusion matrices evaluating our results.
+
 # Results
 
 Task 1: Testing Recognition of a Closed Fist
@@ -197,19 +199,22 @@ make a confusion matrix and put it here
 
 # Discussion
 
-As seen from the results of our tests, our circularity-computation-method worked with moderate accuracy. While it was generally successful, I would say the limitations are mainly ..................
+As seen from the results of our tests, our circularity-computation-method worked with moderate accuracy. While it was generally successful, I would say the limitations were mainly in classifying open-handed gestures. Our method was more accurate in classifying fists, and in our tests for open-hands we had more instances of false-negative classifications. Also, since that part of our program was less accurate, we had difficulty with classifying waves. Sometimes we would be waving with an open hand and our program would not pick that up because it had classified our hand shape as a fist.
 
-We expected template matching to be a better method of hand gesture recognition, but our method of implementation made circularity the more accurate method in our tests. We also expected the fist gesture template to have a higher circularity than our open hand gesture, but that was not the case. Also, we ran into the most problems when it came to classifying dynamic gestures. Using the speed of motion 
-to determine whether a wave was happening only worked when going in one direction (i.e, either left-right or right-left). As soon as we switched direction the program wouldn't recognize the gesture as a wave anymore. In the future, we would try to fine-tune that aspect of our program so that it is better at detecting wave-like motions in both directions. 
+We expected template matching to be a better method of hand gesture recognition, but our method of implementation made circularity the more accurate method in our tests. We also expected the fist gesture template to have a higher circularity than our open hand gesture, but that was not the case. Also, we ran into the most problems when it came to classifying dynamic gestures. In the future, we would try to fine-tune that aspect of our program so that it is better at detecting wave-like motions in both directions. Also, we found that our program was better at classifying waves at higher speeds, so it was not as accurate at picking up slower wave motions.
 
 As for potential future work, I believe that our template matching function has the most potential for improvement. At office hours, we learned that the reason why we were having problems with that method was because we fundamentally misunderstood the procedure for implementing it. We were attempting to match a single template image to an entire source image, which caused problems in both (1) differentiating open-hands from fists and (2) the system recognizing when there wasn't a hand in the image at all. However, we recently learned how to fix this problem. First, we should use the findBinaryLargeObjects() function from Lab 8 to find and cordon off the section of the source image that contains the hand gesture we are classifying. Then, we compare that cropped image with all our template images using the formula result = Sum(I_x,y - T_x,y). We then classify the hand gesture as the template with the smallest result value.
 
 Despite this, we learned of our error well after we had switched focus toward computing circularity. I am confident that if we had the time to implement the template matching method correctly, we would have a more accurate system for recognizing hand gestures. In the future, I would like to adjust the program to reflect these changes.
 
 # Conclusions
-Computing circularity to classify hand gestures
-# Credits and Bibliography
+Computing circularity to classify hand gestures produced pretty accurate results for static gestures. It is yet to be seen whether our method is reproducable for hand gestures of all types. An interesting test would be to use a larger set of template images and see how our tests fare in response. Overall, I feel that circularity is a relatively simple but adept way of recognizing hand gestures. Also, its quick run-time makes it a relatively inexpensive operation to perform on the images. If we had more time to work on this project, I would have finished our template matching algorithm so that we could see which method yielded better results.
 
+I am excited about the future of computer vision techniques in this area, especially for applications in American Sign Language. More advanced programs could potentially string together sentences and phrases signed in ASL, for use in either speech-to-type or similar technologies. As such, gesture recognition will continue to be a topic of interest for me in the future.
+
+
+# Credits and Bibliography
+Referenced "Template Matching" OpenCV Tutorial (2 April 2018) https://docs.opencv.org/2.4/doc/tutorials/imgproc/histograms/template_matching/template_matching.html
 
 
 
