@@ -8,7 +8,7 @@ Date: 2 April 2018
 # Problem Definition
 For this assignment, we were asked to create a program that uses a variety of computer vision techniques (using C++ and opencv)
 to recognize hand gestures. The techniques we could have chosen to implement were:
-(1) Background differencing
+(1) Background differencing\n
 (2) Frame-to-Frame differencing
 (3) Template Matching
 (4) Motion Energy Templates
