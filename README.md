@@ -72,63 +72,55 @@ Template Image:
 
 Trial                                Source Image                                   Result Image
 
-Trial 1                              ![Screenshot](tbd.png)                         ![Screenshot](tbd.png)
+Trial 1                              ![Screenshot](T1_fist_source.png)                         ![Screenshot](T1_fist_circularity.png)
 
-Trial 2                              ![Screenshot](tbd.png)                         ![Screenshot](tbd.png)        
+Trial 2                              ![Screenshot](T2_fist_source.png)                         ![Screenshot](T2_fist_circularity.png)        
+Trial 3                              ![Screenshot](T3_fist_source.png)                         ![Screenshot](T3_fist_circularity.png)
 
-Trial 3                              ![Screenshot](tbd.png)                         ![Screenshot](tbd.png)
+Trial 4                              ![Screenshot](T4_fist_source.png)                         ![Screenshot](T4_fist_circularity.png)
 
-Trial 4                              ![Screenshot](tbd.png)                         ![Screenshot](tbd.png)
+Trial 5                              ![Screenshot](T5_fist_source.png)                         ![Screenshot](T5_fist_circularity.png)
 
-Trial 5                              ![Screenshot](tbd.png)                         ![Screenshot](tbd.png)
+Trial 6                              ![Screenshot](T6_fist_source.png)                         ![Screenshot](T6_fist_circularity.png)
 
-Trial 6                              ![Screenshot](tbd.png)                         ![Screenshot](tbd.png)
-
-
-Confusion Matrix:
-make a confusion matrix and put it here
 
 
 Task 2: Testing Recognition of an Open Hand
 
 Trial                                Source Image                                   Result Image
 
-Trial 1                              ![Screenshot](tbd.png)                         ![Screenshot](tbd.png)
+Trial 1                              ![Screenshot](T1_hand_source.png)                         ![Screenshot](T1_hand_circularity.png)
 
-Trial 2                              ![Screenshot](tbd.png)                         ![Screenshot](tbd.png)        
+Trial 2                              ![Screenshot](T2_hand_source.png)                         ![Screenshot](T2_hand_circularity.png)        
+Trial 3                              ![Screenshot](T3_hand_source.png)                         ![Screenshot](T3_hand_circularity.png)
 
-Trial 3                              ![Screenshot](tbd.png)                         ![Screenshot](tbd.png)
+Trial 4                              ![Screenshot](T4_hand_source.png)                         ![Screenshot](T4_hand_circularity.png)
 
-Trial 4                              ![Screenshot](tbd.png)                         ![Screenshot](tbd.png)
+Trial 5                              ![Screenshot](T5_hand_source.png)                         ![Screenshot](T5_hand_circularity.png)
 
-Trial 5                              ![Screenshot](tbd.png)                         ![Screenshot](tbd.png)
-
-Trial 6                              ![Screenshot](tbd.png)                         ![Screenshot](tbd.png)
+Trial 6                              ![Screenshot](T6_hand_source.png)                         ![Screenshot](T6_hand_circularity.png)
 
 
-Confusion Matrix:
-Make a confusion matrix and put it here
 
 Task 3: Testing Recognition of an Open-Handed Wave
 
 Trial                                Source Image                                   Result Image
 
-Trial 1                              ![Screenshot](tbd.png)                         ![Screenshot](tbd.png)
+Trial 1                              ![Screenshot](T1_waving_source.png)                         ![Screenshot](T1_waving_display.png)
 
-Trial 2                              ![Screenshot](tbd.png)                         ![Screenshot](tbd.png)        
+Trial 2                              ![Screenshot](T2_waving_source.png)                         ![Screenshot](T2_waving_display.png)
 
-Trial 3                              ![Screenshot](tbd.png)                         ![Screenshot](tbd.png)
+Trial 3                              ![Screenshot](T3_waving_source.png)                         ![Screenshot](T3_waving_display.png)
 
-Trial 4                              ![Screenshot](tbd.png)                         ![Screenshot](tbd.png)
+Trial 4                              ![Screenshot](T4_waving_source.png)                         ![Screenshot](T4_waving_display.png)
 
-Trial 5                              ![Screenshot](tbd.png)                         ![Screenshot](tbd.png)
+Trial 5                              ![Screenshot](T5_waving_source.png)                         ![Screenshot](T5_waving_display.png)
 
-Trial 6                              ![Screenshot](tbd.png)                         ![Screenshot](tbd.png)
+Trial 6                              ![Screenshot](T6_waving_source.png)                         ![Screenshot](T6_waving_display.png)
 
 
-Confusion Matrix:
-make a confusion matrix and put it here
-
+Confusion Matrices for Tasks 1 - 3:
+![Screenshot](confusion matrix.png)
 
 # Bonus: Template Matching Method Results
 
@@ -140,61 +132,34 @@ Task 1: Testing Recognition of a Closed Fist
 
 Trial                                Source Image                                   Result Image
 
-Trial 1                              ![Screenshot](tbd.png)                         ![Screenshot](tbd.png)
+Trial 1                              ![Screenshot](T1_fist_match.png)                         ![Screenshot](T1_fist_result.png)
 
-Trial 2                              ![Screenshot](tbd.png)                         ![Screenshot](tbd.png)        
+Trial 2                              ![Screenshot](T2_fist_match.png)                         ![Screenshot](T2_fist_result.png)        
 
-Trial 3                              ![Screenshot](tbd.png)                         ![Screenshot](tbd.png)
+Trial 3                              ![Screenshot](T3_fist_match.png)                         ![Screenshot](T3_fist_result.png)
 
-Trial 4                              ![Screenshot](tbd.png)                         ![Screenshot](tbd.png)
+Trial 4                              ![Screenshot](T4_fist_match.png)                         ![Screenshot](T4_fist_result.png)
 
-Trial 5                              ![Screenshot](tbd.png)                         ![Screenshot](tbd.png)
+Trial 5                              ![Screenshot](T5_fist_match.png)                         ![Screenshot](T5_fist_result.png)
 
-Trial 6                              ![Screenshot](tbd.png)                         ![Screenshot](tbd.png)
+Trial 6                              ![Screenshot](T6_fist_match.png)                         ![Screenshot](T6_fist_result.png)
 
-
-Confusion Matrix:
-make a confusion matrix and put it here
 
 Task 2: Testing Recognition of an Open Hand
 
 Trial                                Source Image                                   Result Image
 
-Trial 1                              ![Screenshot](tbd.png)                         ![Screenshot](tbd.png)
+Trial 1                              ![Screenshot](T1_hand_match.png)                         ![Screenshot](T1_hand_result.png)
 
-Trial 2                              ![Screenshot](tbd.png)                         ![Screenshot](tbd.png)        
+Trial 2                              ![Screenshot](T2_hand_match.png)                         ![Screenshot](T2_hand_result.png)        
 
-Trial 3                              ![Screenshot](tbd.png)                         ![Screenshot](tbd.png)
+Trial 3                              ![Screenshot](T3_hand_match.png)                         ![Screenshot](T3_hand_result.png)
 
-Trial 4                              ![Screenshot](tbd.png)                         ![Screenshot](tbd.png)
+Trial 4                              ![Screenshot](T4_hand_match.png)                         ![Screenshot](T4_hand_result.png)
 
-Trial 5                              ![Screenshot](tbd.png)                         ![Screenshot](tbd.png)
+Trial 5                              ![Screenshot](T5_hand_match.png)                         ![Screenshot](T5_hand_result.png)
 
-Trial 6                              ![Screenshot](tbd.png)                         ![Screenshot](tbd.png)
-
-
-Confusion Matrix:
-make a confusion matrix and put it here
-
-Task 3: Testing Recognition of an Open-Handed Wave
-
-Trial                                Source Image                                   Result Image
-
-Trial 1                              ![Screenshot](tbd.png)                         ![Screenshot](tbd.png)
-
-Trial 2                              ![Screenshot](tbd.png)                         ![Screenshot](tbd.png)        
-
-Trial 3                              ![Screenshot](tbd.png)                         ![Screenshot](tbd.png)
-
-Trial 4                              ![Screenshot](tbd.png)                         ![Screenshot](tbd.png)
-
-Trial 5                              ![Screenshot](tbd.png)                         ![Screenshot](tbd.png)
-
-Trial 6                              ![Screenshot](tbd.png)                         ![Screenshot](tbd.png)
-
-
-Confusion Matrix:
-make a confusion matrix and put it here
+Trial 6                              ![Screenshot](T6_hand_match.png)                         ![Screenshot](T6_hand_result.png)
 
 
 # Discussion
