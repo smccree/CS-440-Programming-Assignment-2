@@ -120,7 +120,7 @@ Trial 6                              ![Screenshot](https://github.com/smccree/CS
 
 
 Confusion Matrices for Tasks 1 - 3:
-![Screenshot](https://github.com/smccree/CS-440-Programming-Assignment-2/tree/master/screenshots/confusion matrix.png)
+![Screenshot](CS-440-Programming-Assignment-2/screenshots/confusion matrix.png)
 
 # Bonus: Template Matching Method Results
 
