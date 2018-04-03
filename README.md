@@ -57,7 +57,6 @@ To classify our dynamic gesture--an open-handed wave--we modified the myMotionEn
 
 Using a mix of circularity computation, motion energy reading, template images skin color detection, among other techniques listed above, we were able to classify these gestures with moderate success.
 
-![Screenshot](my_hand.png) This is the proper formatting of how to add screenshots. Temporary.
 
 # Experiments
 
@@ -198,8 +197,17 @@ make a confusion matrix and put it here
 
 # Discussion
 
-# Conclusions
+As seen from the results of our tests, our circularity-computation-method worked with moderate accuracy. While it was generally successful, I would say the limitations are mainly ..................
 
+We expected template matching to be a better method of hand gesture recognition, but our method of implementation made circularity the more accurate method in our tests. We also expected the fist gesture template to have a higher circularity than our open hand gesture, but that was not the case. Also, we ran into the most problems when it came to classifying dynamic gestures. Using the speed of motion 
+to determine whether a wave was happening only worked when going in one direction (i.e, either left-right or right-left). As soon as we switched direction the program wouldn't recognize the gesture as a wave anymore. In the future, we would try to fine-tune that aspect of our program so that it is better at detecting wave-like motions in both directions. 
+
+As for potential future work, I believe that our template matching function has the most potential for improvement. At office hours, we learned that the reason why we were having problems with that method was because we fundamentally misunderstood the procedure for implementing it. We were attempting to match a single template image to an entire source image, which caused problems in both (1) differentiating open-hands from fists and (2) the system recognizing when there wasn't a hand in the image at all. However, we recently learned how to fix this problem. First, we should use the findBinaryLargeObjects() function from Lab 8 to find and cordon off the section of the source image that contains the hand gesture we are classifying. Then, we compare that cropped image with all our template images using the formula result = Sum(I_x,y - T_x,y). We then classify the hand gesture as the template with the smallest result value.
+
+Despite this, we learned of our error well after we had switched focus toward computing circularity. I am confident that if we had the time to implement the template matching method correctly, we would have a more accurate system for recognizing hand gestures. In the future, I would like to adjust the program to reflect these changes.
+
+# Conclusions
+Computing circularity to classify hand gestures
 # Credits and Bibliography
 
 
