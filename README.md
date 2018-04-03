@@ -72,7 +72,7 @@ Template Image:
 
 Trial                                Source Image                                   Result Image
 
-Trial 1                              ![Screenshot](T1_fist_source.png)                         ![Screenshot](T1_fist_circularity.png)
+Trial 1                              ![Screenshot](master/screenshotsT1_fist_source.png)                         ![Screenshot](T1_fist_circularity.png)
 
 Trial 2                              ![Screenshot](T2_fist_source.png)                         ![Screenshot](T2_fist_circularity.png)        
 Trial 3                              ![Screenshot](T3_fist_source.png)                         ![Screenshot](T3_fist_circularity.png)
