@@ -101,7 +101,7 @@ Task 2: Testing Recognition of an Open Hand
 ![Trial 2 Source Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T2_hand_source.PNG)           ![Trial 2 Result Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T2_hand_circularity.PNG)        
 ![Trial 3 Source Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T3_hand_source.PNG)           ![Trial 3 Result Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T3_hand_circularity.PNG)
 
-![Trial 4 Source Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshotsT4_hand_source.PNG)           
+![Trial 4 Source Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T4_hand_source.PNG)           
 ![Trial 4 Result Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T4_hand_circularity.PNG)
 
 ![Trial 5 Source Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T5_hand_sourch.PNG)           ![Trial 5 Result Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T5_hand_circularity.PNG)
