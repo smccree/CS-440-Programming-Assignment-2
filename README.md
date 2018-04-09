@@ -127,7 +127,7 @@ Task 3: Testing Recognition of an Open-Handed Wave
 ![Trial 5 Source Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T5_waving_source.PNG)         ![Trial 5 Result Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T5_waving_display.PNG)
 
 ![Trial 6 Source Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T6_source.PNG)         
-![Trial 6 Result Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T6_waving.PNG)
+![Trial 6 Result Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T6_display.PNG)
 
 
 ![Confusion Matrix for Tasks 1 - 3](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/confusion%20matrix.png)
@@ -138,7 +138,7 @@ Because we initially tried to use template matching to classify hand gestures, I
 method. The only problem we had with using template matching is we were unable to figure out how to get the system to recognize when
 the template we were searching for was not in the frame. Our modified version of the code available from OpenCV's tutorial on the subject simply found the 'best possible match' to the template we were searching for. However, it was still semi-accurate in our tests.
 
-## Task 1: Testing Recognition of a Closed Fist
+Task 1: Testing Recognition of a Closed Fist
 
 
 ![Trial 1 Source Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T1_fist_match.PNG)           ![Trial 1 Result Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T1_fist_result.PNG)
