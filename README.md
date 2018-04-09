@@ -71,6 +71,8 @@ After our initial tests, we performed 20 rapid-fire tests for both fist and open
 
 Task 1: Testing Recognition of a Closed Fist
 
+![Template Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/fist.PNG)
+
 ![Trial 1 Source Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T1_fist_source.PNG)      
 ![Trial 1 Result Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T1_fist_circularity.PNG)
 
@@ -124,7 +126,8 @@ Task 3: Testing Recognition of an Open-Handed Wave
 
 ![Trial 5 Source Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T5_waving_source.PNG)         ![Trial 5 Result Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T5_waving_display.PNG)
 
-![Trial 6 Source Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T6_waving_source.PNG)         ![Trial 6 Result Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T6_waving_display.PNG)
+![Trial 6 Source Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T6_source.PNG)         
+![Trial 6 Result Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T6_waving.PNG)
 
 
 ![Confusion Matrix for Tasks 1 - 3](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/confusion%20matrix.png)
