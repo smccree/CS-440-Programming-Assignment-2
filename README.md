@@ -71,26 +71,23 @@ After our initial tests, we performed 20 rapid-fire tests for both fist and open
 
 Task 1: Testing Recognition of a Closed Fist
 
-![Template Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/fist.PNG)
-
-
 ![Trial 1 Source Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T1_fist_source.PNG)      
 ![Trial 1 Result Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T1_fist_circularity.PNG)
 
-![Trial 2 Source Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T2_fist_source.png)     
-![Trial 2 Result Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T2_fist_circularity.png)   
+![Trial 2 Source Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T2_fist_source.PNG)     
+![Trial 2 Result Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T2_fist_circularity.PNG)   
 
-![Trial 3 Source Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T3_fist_source.png)       
-![Trial 3 Result Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T3_fist_circularity.png)
+![Trial 3 Source Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T3_fist_source.PNG)       
+![Trial 3 Result Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T3_fist_circularity.PNG)
 
-![Trial 4 Source Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T4_fist_source.png)      
-![Trial 4 Result Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T4_fist_circularity.png)
+![Trial 4 Source Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T4_fist_source.PNG)      
+![Trial 4 Result Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T4_fist_circularity.PNG)
 
-![Trial 5 Source Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T5_fist_source.png)         
-![Trial 5 Result Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T5_fist_circularity.png)
+![Trial 5 Source Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T5_fist_source.PNG)         
+![Trial 5 Result Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T5_fist_circularity.PNG)
 
-![Trial 6 Source Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T6_fist_source.png)   
-![Trial 6 Result Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T6_fist_circularity.png)
+![Trial 6 Source Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T6_fist_source.PNG)   
+![Trial 6 Result Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T6_fist_circularity.PNG)
 
 
 
@@ -99,34 +96,35 @@ Task 2: Testing Recognition of an Open Hand
 ![Template Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/hand.PNG)
 
 
-![Trial 1 Source Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T1_hand_source.png)           ![Trial 1 Result Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T1_hand_circularity.png)
+![Trial 1 Source Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T1_hand_source.PNG)           ![Trial 1 Result Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T1_hand_circularity.PNG)
 
-![Trial 2 Source Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T2_hand_source.png)           ![Trial 2 Result Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T2_hand_circularity.png)        
-![Trial 3 Source Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T3_hand_source.png)           ![Trial 3 Result Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T3_hand_circularity.png)
+![Trial 2 Source Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T2_hand_source.PNG)           ![Trial 2 Result Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T2_hand_circularity.PNG)        
+![Trial 3 Source Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T3_hand_source.PNG)           ![Trial 3 Result Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T3_hand_circularity.PNG)
 
-![Trial 4 Source Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshotsT4_hand_source.png)           
-![Trial 4 Result Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T4_hand_circularity.png)
+![Trial 4 Source Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshotsT4_hand_source.PNG)           
+![Trial 4 Result Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T4_hand_circularity.PNG)
 
-![Trial 5 Source Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T5_hand_sourch.png)           ![Trial 5 Result Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T5_hand_circularity.png)
+![Trial 5 Source Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T5_hand_sourch.PNG)           ![Trial 5 Result Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T5_hand_circularity.PNG)
 
-![Trial 6 Source Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T6_hand_source.png)           ![Trial 6 Result Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T6_hand_circularity.png)
+![Trial 6 Source Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T6_hand_source.PNG)           ![Trial 6 Result Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T6_hand_circularity.PNG)
 
 
 
 Task 3: Testing Recognition of an Open-Handed Wave
 
 
-![Trial 1 Source Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T1_waving_source.png)         ![Trial 1 Result Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T1_waving_display.png)
+![Trial 1 Source Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T1_waving_source.PNG)         ![Trial 1 Result Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T1_waving_display.PNG)
 
-![Trial 2 Source Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T2_waving_source.png)         ![Trial 2 Result Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T2_waving_display.png)
+![Trial 2 Source Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T2_waving_source.PNG)       
+![Trial 2 Result Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T2_waving_display.PNG)
 
-![Trial 3 Source Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T3_waving_source.png)         ![Trial 3 Result Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T3_waving_display.png)
+![Trial 3 Source Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T3_waving_source.PNG)         ![Trial 3 Result Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T3_waving_display.PNG)
 
-![Trial 4 Source Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T4_waving_source.png)         ![Trial 4 Result Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T4_waving_display.png)
+![Trial 4 Source Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T4_waving_source.PNG)         ![Trial 4 Result Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T4_waving_display.PNG)
 
-![Trial 5 Source Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T5_waving_source.png)         ![Trial 5 Result Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T5_waving_display.png)
+![Trial 5 Source Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T5_waving_source.PNG)         ![Trial 5 Result Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T5_waving_display.PNG)
 
-![Trial 6 Source Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T6_waving_source.png)         ![Trial 6 Result Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T6_waving_display.png)
+![Trial 6 Source Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T6_waving_source.PNG)         ![Trial 6 Result Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T6_waving_display.PNG)
 
 
 ![Confusion Matrix for Tasks 1 - 3](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/confusion%20matrix.png)
@@ -162,7 +160,7 @@ Task 2: Testing Recognition of an Open Hand
 
 ![Trial 3 Source Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T3_hand_match.PNG)           ![Trial 3 Reuslt Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T3_hand_result.PNG)
 
-![Trial 4 Source Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T4_hand_match.PNG)           ![Trial 4 Result Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshotsT4_hand_result.PNG)
+![Trial 4 Source Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T4_hand_match.PNG)           ![Trial 4 Result Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T4_hand_result.PNG)
 
 ![Trial 5 Source Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T5_hand_match.PNG)           ![Trial 5 Result Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T5_hand_result.PNG)
 
