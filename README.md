@@ -95,7 +95,7 @@ Task 1: Testing Recognition of a Closed Fist
 
 Task 2: Testing Recognition of an Open Hand
 
-![Template Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/hand.PNG)
+![Template Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/hand.png)
 
 
 ![Trial 1 Source Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T1_hand_source.PNG)           ![Trial 1 Result Image](https://github.com/smccree/CS-440-Programming-Assignment-2/blob/master/screenshots/T1_hand_circularity.PNG)
