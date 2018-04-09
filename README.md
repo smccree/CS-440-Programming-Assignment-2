@@ -75,7 +75,7 @@ Template Image:
 
 Trial                                Source Image                                   Result Image
 
-Trial 1                              ![Screenshot](https://raw.github.com/smccree/CS-440-Programming-Assignment-2/tree/master/screenshots/T1_fist_source.png?raw=true "Screenshot 1")                         ![Screenshot](https://github.com/smccree/CS-440-Programming-Assignment-2/tree/master/screenshots/T1_fist_circularity.png)
+Trial 1                              ![image](https://github.com/smccree/CS-440-Programming-Assignment-2/tree/master/screenshots/T1_fist_source.png?raw=true "Screenshot 1")                         ![Screenshot](https://github.com/smccree/CS-440-Programming-Assignment-2/tree/master/screenshots/T1_fist_circularity.png)
 
 Trial 2                              ![Screenshot](https://github.com/smccree/CS-440-Programming-Assignment-2/tree/master/screenshots/T2_fist_source.png)                         ![Screenshot](https://github.com/smccree/CS-440-Programming-Assignment-2/tree/master/screenshots/T2_fist_circularity.png)        
 Trial 3                              ![Screenshot](https://github.com/smccree/CS-440-Programming-Assignment-2/tree/master/screenshots/T3_fist_source.png)                         ![Screenshot](https://github.com/smccree/CS-440-Programming-Assignment-2/tree/master/screenshots/T3_fist_circularity.png)
